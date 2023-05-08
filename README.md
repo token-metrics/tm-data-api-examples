@@ -14,7 +14,7 @@
     <img alt="Website" src="https://img.shields.io/badge/Website-Token%20Metrics-green"/>
   </a>
   <a href="https://discord.com/channels/993882885486555146/1066655231791861821">       
-    <img alt="Discord" src="https://dcbadge.vercel.app/api/server/PJEgRywgRy?style=flat&compact=true"/>
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-Token%20Metrics-brightgreen"/>
   </a>
   <a href="https://twitter.com/tokenmetricsinc">       
 	<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Ftokenmetricsinc">
