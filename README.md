@@ -10,7 +10,7 @@
   <a href="https://developers.tokenmetrics.com/">       
 	<img alt="Twitter URL" src="https://img.shields.io/badge/Doc-TM%20API-brightgreen">
   </a>
-  <a href="https://www.tokenmetrics.com/n">       
+  <a href="https://www.tokenmetrics.com/">       
     <img alt="Website" src="https://img.shields.io/badge/Website-Token%20Metrics-green"/>
   </a>
   <a href="https://discord.com/channels/993882885486555146/1066655231791861821">       
